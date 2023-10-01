@@ -1,0 +1,28 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.staticwebassets.runtime.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\bin\Debug\net6.0\Time Display.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.RazorAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.RazorAssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets\msbuild.Time Display.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets\msbuild.build.Time Display.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Time Display.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Time Display.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\scopedcss\bundle\Time Display.styles.css
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\refint\Time Display.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\Time Display.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Time Display\obj\Debug\net6.0\ref\Time Display.dll

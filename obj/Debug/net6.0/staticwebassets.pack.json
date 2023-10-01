@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Time Display\\wwwroot\\css\\styless.css",
+      "PackagePath": "staticwebassets\\css\\styless.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Time Display.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Time Display.props",
+      "PackagePath": "build\\Time Display.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Time Display.props",
+      "PackagePath": "buildMultiTargeting\\Time Display.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Time Display.props",
+      "PackagePath": "buildTransitive\\Time Display.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

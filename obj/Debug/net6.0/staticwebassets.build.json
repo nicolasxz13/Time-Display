@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VkGJUsjXDPMBLVvXKJ8qNZqa4SvXogvwRAInCh+8ECo=",
+  "Source": "Time Display",
+  "BasePath": "_content/Time Display",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Time Display\\wwwroot",
+      "Source": "Time Display",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Time Display\\wwwroot\\",
+      "BasePath": "_content/Time Display",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Time Display\\wwwroot\\css\\styless.css",
+      "SourceId": "Time Display",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Time Display\\wwwroot\\",
+      "BasePath": "_content/Time Display",
+      "RelativePath": "css/styless.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styless.css"
+    }
+  ]
+}
